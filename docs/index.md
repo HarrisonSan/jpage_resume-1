@@ -9,6 +9,7 @@ Student at Brigham Young University-Idaho
 <a href="https://github.com/jeffmahay">Github</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="www.linkedin.com/in/jeff-page-1b9661207">LinkedIn</a>
+| <a href="jeffersonpage7@gmail.com">Email</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
