@@ -20,23 +20,6 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.8 Major GPA
 
-## Relevant Skills
-- Software Development
-- Delivery Driver Experience
-- C#
-- Clojure
-- Go
-- Merchandising
-- CSS
-- Computer Science
-- JavaScript
-- Python
-- HTML5
-- .NET Framework
-- MySQL
-- Trilingual
-- GitHub
-
 ## Related Experience
 
 ## Delivery Driver
@@ -57,7 +40,7 @@ __Pepperidge Farm Incorporated__, Douglasville, GA
 - Retail Work
 
 ## Independent Contractor
-- `May 2019 - September 2019`
+`May 2019 - September 2019`
 __Blickle USA Wheels and Casters__, Newnan, GA
 
 - Participated in massive reorganization of Warehouse
@@ -65,21 +48,35 @@ __Blickle USA Wheels and Casters__, Newnan, GA
 - Participated in several different jobs, and adapted quickly
 
 ## Service History
-
 `2021`
 __English Tutor__, The Church of Jesus Christ of Latter-Day Saints
-
 
 `2019-2020`
 __Service Missionary__, Madagascar/ Boston, Massachusetts
 
+## Relevant Skills
+- Software Development
+- Delivery Driver Experience
+- C#
+- Clojure
+- Go
+- Merchandising
+- CSS
+- Computer Science
+- JavaScript
+- Python
+- HTML5
+- .NET Framework
+- MySQL
+- Trilingual
+- GitHub
+- 
 ## Languages
 - Malagasy - Intermediate
 - Spanish - Beginner
 - Japanese - Intermediate
 - Mandarin - Beginner
 -French - Beginner
-
 ##
 
 <!-- ### Footer
