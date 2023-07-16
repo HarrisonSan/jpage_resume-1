@@ -13,7 +13,7 @@ Student at Brigham Young University-Idaho
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
-
+<!-- Consider putting an expected month as well. -->
 ## Education
 `Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
@@ -21,7 +21,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - 3.8 Major GPA
 
 ## Related Experience
-
+<!-- In all of your experience, try to focus on what the employer would care about. They probably don't care about "Sold products to customers"... but they will definetly be interested in "Maintained relationships with customers" How did you participate in the reorganizing of the warehouse? Did you help in anyways that would make you stand out?   -->
 ## Delivery Driver
 `January 2022 - May 2023`
 __Doordash__, Rexburg, ID
@@ -46,14 +46,14 @@ __Blickle USA Wheels and Casters__, Newnan, GA
 - Participated in massive reorganization of Warehouse
 - Independently Worked
 - Participated in several different jobs, and adapted quickly
-
+<!-- Captialize on this part of your resume! They are probably thinking "Why in the world would this guy be an English tutor? tell them more about whyyyyy you did it. Same with your mission.  -->
 ## Service History
 `2021`
 __English Tutor__, The Church of Jesus Christ of Latter-Day Saints
 
 `2019-2020`
 __Service Missionary__, Madagascar/ Boston, Massachusetts
-
+<!-- consider shortening, or trying to incorporate some of these skills above... You may consider trying to do a 2 or 3 column representation to shorten the overall look of your resume. -->
 ## Relevant Skills
 - Software Development
 - Delivery Driver Experience
@@ -70,7 +70,7 @@ __Service Missionary__, Madagascar/ Boston, Massachusetts
 - MySQL
 - Trilingual
 - GitHub
-- 
+<!-- You should also seriously capitalize on this! Tell them why you are learning all these languages! That will tell them a lot about you.  -->
 ## Languages
 - Malagasy - Intermediate
 - Spanish - Beginner
@@ -80,7 +80,7 @@ __Service Missionary__, Madagascar/ Boston, Massachusetts
 ##
 
 <!-- ### Footer
-
+<!-- GREAT JOB!  -->
 Last updated: July 2023 -->
 
 
